@@ -21,4 +21,4 @@ O MemoryLab acha e edita valores na memória de jogos que rodam no seu PC (vida,
 
 ## Como é por dentro
 
-![Assistente de busca do MemoryLab](images/assistente-de-busca.png)
+![Painel do MemoryLab](images/painel.png)
