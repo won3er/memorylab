@@ -1,6 +1,6 @@
 # MemoryLab
 
-Editor/depurador de memória para jogos offline no Windows — uma alternativa ao Cheat Engine, com busca guiada e inteligente.
+Editor/depurador de memória para jogos no Windows — uma alternativa ao Cheat Engine, com busca guiada e inteligente.
 
 ## ⬇️ Baixar
 
@@ -10,7 +10,7 @@ Baixe o arquivo, dê dois cliques e siga o instalador.
 
 ## O que é
 
-O MemoryLab acha e edita valores na memória de jogos que rodam no seu PC (vida, dinheiro, XP, velocidade, etc.), sem precisar entender nada de programação. Feito só para jogos **offline / single-player** seus.
+O MemoryLab acha e edita valores na memória de jogos que rodam no seu PC (vida, dinheiro, XP, velocidade, etc.), sem precisar entender nada de programação.
 
 ## Como usar
 
@@ -19,6 +19,6 @@ O MemoryLab acha e edita valores na memória de jogos que rodam no seu PC (vida,
 3. Siga os passos simples — o programa mostra na tela o que fazer a cada etapa
 4. Quando achar, vá em **Controles** — lá fica uma caixinha liga/desliga + um controle deslizante pra mudar o valor
 
-## Aviso
+## Como é por dentro
 
-Use apenas em jogos offline/single-player seus. Não use em jogos online/com multiplayer — risco de banimento e de prejudicar outros jogadores.
+![Assistente de busca do MemoryLab](images/assistente-de-busca.png)
